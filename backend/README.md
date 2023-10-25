@@ -1,4 +1,4 @@
-# EndlessScrolling
+# README.md
 
 ## Запуск
 ````console
